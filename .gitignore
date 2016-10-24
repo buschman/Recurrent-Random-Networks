@@ -17,6 +17,22 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Matlab files
+*.mat
+*.fig
+*.asv
+
+# Figure files
+*.ai
+*.eps
+*.svg
+*.png
+*.jpg
+*.avi
+
+# Old files
+Old Simulation Scripts/
+
 # =========================
 # Operating System Files
 # =========================
